@@ -1,4 +1,4 @@
-# SourceCred Template Instance
+# CRE8R SourceCred Template Instance
 
 This repository contains a template for running a SourceCred instance.
 
